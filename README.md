@@ -49,7 +49,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,pug,express,androidstudio,figma,ai,github,html,java,js,bootstrap,sutanaconda,mongodb,mysql,arduino,nodejs,py,react,tailwind,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,pug,express,androidstudio,figma,ai,github,html,java,js,bootstrap,anaconda,mongodb,mysql,arduino,nodejs,py,react,tailwind,vscode" />
   </a>
 </p>
 
@@ -74,17 +74,3 @@
 
 
 <!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
-
-Last Edited on: 29/4/2023
