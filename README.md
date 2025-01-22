@@ -15,7 +15,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">“Primero resuelve el problema, después escribe el código”</h2></summary>
+    <summary><h2 style="display: inline-block">“Primero resuelvo el problema, después escribe el código”</h2></summary>
   </ul>
 </div>
 
