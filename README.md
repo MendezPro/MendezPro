@@ -21,7 +21,7 @@
 
 <h2 align="center">Tecnologías con las que trabajo</h2>
 
-<table width="100%">
+<table align="center">
   <tr>
     <td align="center" width="50%">
       <h3>🖥️ Frontend</h3>
