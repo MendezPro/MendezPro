@@ -28,10 +28,10 @@ The SVG groups are stored in this repository so rendering does not depend on the
 
 ## Activity updates
 
-`scripts/update_stats.py` refreshes public GitHub statistics and caches trophy cards daily through `.github/workflows/profile-stats.yml`. Trophy categories are Commits, PullRequest, Followers and Repositories, selected from the upstream service without rewriting its scores or ranks.
+`scripts/update_stats.py` caches trophy cards daily through `.github/workflows/profile-stats.yml`. Trophy categories are Commits, PullRequest, Followers and Repositories, selected from the upstream service without rewriting its scores or ranks.
 
 The upstream primary trophy endpoint returned HTTP 402 during verification. The selected community endpoint, `https://trophy.ryglcloud.net`, is listed by the upstream project. Only the public username is sent to that endpoint; no GitHub credential is sent. Returned SVG is checked before replacing the previous file. If the service fails, the previous valid trophy image remains visible.
 
-Public metrics exclude private repository details. Stars mean received stars, and language counts are detected languages rather than skill ratings. The private experience and education are self-reported text preserved from the previous README.
+The custom public-activity statistics panel was removed from the profile. Experience and education are self-reported; NYCITO App is described only as an integrated cafeteria management system.
 
 The workflow uses GitHub's automatic repository token and needs permission to commit generated images. It does not change source code or private repositories.

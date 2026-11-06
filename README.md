@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.gif" width="100%" alt="Orlando Méndez · Full Stack Developer. Teseracto animado mediante rotaciones en cuatro dimensiones. ERP, sistemas institucionales y liderazgo frontend." />
+  <img src="./assets/hero.gif" width="100%" alt="Orlando Méndez · Full Stack Developer. Teseracto animado mediante rotaciones en cuatro dimensiones. Sistemas institucionales y liderazgo frontend." />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <p align="center">
 Desarrollo software para el sector público y privado.<br />
-<b>ERP · Sistemas institucionales · Liderazgo de frontend y proyectos</b>
+<b>Sistemas institucionales · Liderazgo de frontend y proyectos</b>
 </p>
 
 ### Tecnologías con las que trabajo
@@ -48,8 +48,6 @@ Desarrollo software para el sector público y privado.<br />
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="./assets/trophies.svg" width="100%" alt="GitHub Profile Trophy: categorías Commits, Pull Requests, Followers y Repositories para MendezPro, calculadas por el proyecto github-profile-trophy." /></a>
 </p>
 
-<img src="./assets/github-pulse.svg" width="100%" alt="Estadísticas verificadas de repositorios públicos propios, seguidores, lenguajes y estrellas recibidas. Actualización diaria mediante GitHub Actions." />
-
 <p align="center"><sub>Trofeos generados con GitHub Profile Trophy; son distintos de los Achievements oficiales. Las métricas públicas no representan todo mi trabajo en repositorios privados.</sub></p>
 
 ### Experiencia y proyectos
@@ -65,29 +63,9 @@ Desarrollo de sistemas para el sector público y seguridad pública en Puebla.
 </td>
 <td width="50%" valign="top">
 
-**ERP y sistemas de negocio** · `Experiencia profesional`
+**NYCITO App** · `Sistema para cafetería`
 
-Desarrollo full stack, liderazgo de frontend y coordinación de proyectos.
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**VozUrbana · Android / Wear OS**
-
-Repositorio público de desarrollo móvil en Kotlin.
-
-[Ver código ↗](https://github.com/MendezPro/VozUrbana-WearOS-Android)
-
-</td>
-<td valign="top">
-
-**APM Cinema**
-
-Proyecto académico de desarrollo web con HTML.
-
-[Ver código ↗](https://github.com/MendezPro/APM_CINEMA)
+Sistema integral para la operación y administración de una cafetería.
 
 </td>
 </tr>
@@ -102,6 +80,6 @@ Integro IA en mi flujo de desarrollo con criterio técnico y revisión del resul
 
 </details>
 
-<p align="center"><b>Primero resuelvo el problema. Después escribo el código.</b><br /><a href="mailto:soymendez56@gmail.com">soymendez56@gmail.com</a></p>
+<p align="center"><a href="mailto:soymendez56@gmail.com">soymendez56@gmail.com</a></p>
 
 <!-- Original technology logos: tandpfun/skill-icons (MIT). Trophy cards: ryo-ma/github-profile-trophy (MIT), via a community endpoint listed by the upstream project. Assets cached in this repository; see licenses/ and PROFILE-DESIGN.md. -->
