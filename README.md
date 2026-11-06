@@ -1,7 +1,7 @@
 <h1 align="center">Orlando Méndez 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer · Frontend · ERP</b>
+  <b> Developer </b>
 </p>
 
 <p align="center">
