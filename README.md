@@ -1,59 +1,107 @@
-<h1 align="center">Orlando Méndez 👋</h1>
-
 <p align="center">
-  <b> Developer </b>
+  <img src="./assets/hero.gif" width="100%" alt="Orlando Méndez · Full Stack Developer. Teseracto animado mediante rotaciones en cuatro dimensiones. ERP, sistemas institucionales y liderazgo frontend." />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/62cdb31f-17fc-4f9e-ac44-aaef87e81a50" width="900" alt="Teseracto geométrico girando en perspectiva, con líneas cian y violeta y código animado debajo" />
+  <a href="mailto:soymendez56@gmail.com"><img src="https://img.shields.io/badge/HABLEMOS-6EE7D8?style=for-the-badge&amp;logo=gmail&amp;logoColor=0D1117" alt="Contacto por correo" /></a>
+  <a href="https://github.com/MendezPro?tab=repositories"><img src="https://img.shields.io/badge/PROYECTOS-151C25?style=for-the-badge&amp;logo=github&amp;logoColor=E6EDF3" alt="Explorar proyectos" /></a>
+  <a href="https://github.com/MendezPro?tab=achievements"><img src="https://img.shields.io/badge/ACHIEVEMENTS-A99BFF?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117" alt="Logros oficiales de GitHub" /></a>
 </p>
 
 <p align="center">
-  Desarrollo software para el sector público y privado.<br />
-  Experiencia en <b>ERP, sistemas institucionales y liderazgo de frontend y proyectos</b>.
+Desarrollo software para el sector público y privado.<br />
+<b>ERP · Sistemas institucionales · Liderazgo de frontend y proyectos</b>
 </p>
 
-<p align="center">
-  🚀 Actualmente desarrollo proyectos y construyo soluciones de software.<br />
-  🛠️ IA integrada a mi flujo de desarrollo, con criterio técnico.<br />
-  🔒 He desarrollado sistemas gubernamentales de alcance institucional para seguridad pública, incluyendo proyectos para la policía en Puebla. Su código es privado.
-</p>
-
-<h2 align="center">Tecnologías con las que trabajo</h2>
+### Tecnologías con las que trabajo
 
 <table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🖥️ Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,vite,html,css,tailwind&amp;perline=5" alt="TypeScript, JavaScript, React, Next.js, Vue, Vite, HTML, CSS y Tailwind" />
-      <p><sub>Interfaces y experiencia de usuario</sub></p>
-    </td>
-    <td align="center" width="50%">
-      <h3>⚙️ Backend y datos</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,prisma,mysql,mongodb&amp;perline=4" alt="Node.js, NestJS, Express, PostgreSQL, Prisma, MySQL y MongoDB" />
-      <p><sub>APIs, lógica de negocio y datos</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>🛠️ Herramientas</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,py&amp;perline=3" alt="Git, GitHub, Docker, Figma, VS Code y Python" />
-      <p><sub>Desarrollo, diseño y colaboración</sub></p>
-    </td>
-    <td align="center">
-      <h3>📱 También en móvil</h3>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&amp;perline=2" alt="Flutter, Dart, Kotlin y Android Studio" />
-      <p><sub>Experiencia multiplataforma</sub></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3>Frontend</h3>
+<img src="./assets/stack-frontend.svg" width="280" alt="TypeScript, JavaScript, React, Next.js, Vue, Vite, HTML, CSS y Tailwind CSS" />
+<p><sub>TypeScript · JavaScript · React · Next.js · Vue<br />Vite · HTML · CSS · Tailwind CSS</sub></p>
+</td>
+<td width="50%" align="center" valign="top">
+<h3>Backend y datos</h3>
+<img src="./assets/stack-backend.svg" width="224" alt="Node.js, NestJS, Express, PostgreSQL, Prisma, MySQL y MongoDB" />
+<p><sub>Node.js · NestJS · Express · PostgreSQL<br />Prisma · MySQL · MongoDB</sub></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<h3>Herramientas</h3>
+<img src="./assets/stack-tools.svg" width="336" alt="Git, GitHub, Docker, Figma, Visual Studio Code y Python" />
+<p><sub>Git · GitHub · Docker · Figma · VS Code · Python</sub></p>
+</td>
+<td align="center" valign="top">
+<h3>Multiplataforma</h3>
+<img src="./assets/stack-mobile.svg" width="224" alt="Flutter, Dart, Kotlin y Android Studio" />
+<p><sub>Flutter · Dart · Kotlin · Android Studio</sub></p>
+</td>
+</tr>
 </table>
 
-<p align="center">
-  <sub>TSU en Desarrollo de Software Multiplataforma · Ingeniería en Desarrollo y Gestión de Software, titulación en proceso.</sub>
-</p>
+### Trofeos y actividad
 
 <p align="center">
-  <a href="mailto:soymendez56@gmail.com"><img src="https://img.shields.io/badge/Hablemos-Contacto_profesional-161B22?style=flat&amp;logo=gmail&amp;logoColor=EA4335" alt="Hablemos por correo" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="./assets/trophies.svg" width="100%" alt="GitHub Profile Trophy: categorías Commits, Pull Requests, Followers y Repositories para MendezPro, calculadas por el proyecto github-profile-trophy." /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Separador animado" />
+<img src="./assets/github-pulse.svg" width="100%" alt="Estadísticas verificadas de repositorios públicos propios, seguidores, lenguajes y estrellas recibidas. Actualización diaria mediante GitHub Actions." />
+
+<p align="center"><sub>Trofeos generados con GitHub Profile Trophy; son distintos de los Achievements oficiales. Las métricas públicas no representan todo mi trabajo en repositorios privados.</sub></p>
+
+### Experiencia y proyectos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Sistemas institucionales** · `Código privado`
+
+Desarrollo de sistemas para el sector público y seguridad pública en Puebla.
+
+</td>
+<td width="50%" valign="top">
+
+**ERP y sistemas de negocio** · `Experiencia profesional`
+
+Desarrollo full stack, liderazgo de frontend y coordinación de proyectos.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**VozUrbana · Android / Wear OS**
+
+Repositorio público de desarrollo móvil en Kotlin.
+
+[Ver código ↗](https://github.com/MendezPro/VozUrbana-WearOS-Android)
+
+</td>
+<td valign="top">
+
+**APM Cinema**
+
+Proyecto académico de desarrollo web con HTML.
+
+[Ver código ↗](https://github.com/MendezPro/APM_CINEMA)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>Formación y forma de trabajo</summary>
+
+TSU en Desarrollo de Software Multiplataforma. Ingeniería en Desarrollo y Gestión de Software, titulación en proceso.
+
+Integro IA en mi flujo de desarrollo con criterio técnico y revisión del resultado.
+
+</details>
+
+<p align="center"><b>Primero resuelvo el problema. Después escribo el código.</b><br /><a href="mailto:soymendez56@gmail.com">soymendez56@gmail.com</a></p>
+
+<!-- Original technology logos: tandpfun/skill-icons (MIT). Trophy cards: ryo-ma/github-profile-trophy (MIT), via a community endpoint listed by the upstream project. Assets cached in this repository; see licenses/ and PROFILE-DESIGN.md. -->
