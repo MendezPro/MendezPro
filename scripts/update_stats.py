@@ -59,6 +59,7 @@ def refresh_trophies():
         req=urllib.request.Request(url,headers={'User-Agent':'MendezPro-profile'})
         with urllib.request.urlopen(req,timeout=30) as response:
             data=response.read(2_000_000)
+        data=('\n'.join(line.rstrip() for line in data.decode('utf-8').splitlines()).rstrip()+'\n').encode('utf-8')
         document=ET.fromstring(data)
         if document.tag!='{http://www.w3.org/2000/svg}svg':
             raise ValueError('Response is not an SVG')
