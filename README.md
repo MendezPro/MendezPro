@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.gif" width="100%" alt="Orlando Méndez · Full Stack Developer. Teseracto animado mediante rotaciones en cuatro dimensiones. Sistemas institucionales y liderazgo frontend." />
+  <img src="./assets/hero.gif" width="100%" alt="Orlando Méndez · Full Stack Developer. Teseracto animado mediante rotaciones en cuatro dimensiones." />
 </p>
 
 <p align="center">
