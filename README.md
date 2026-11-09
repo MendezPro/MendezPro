@@ -10,7 +10,6 @@
 
 <p align="center">
 Desarrollo software para el sector público y privado.<br />
-<b>Sistemas institucionales · Liderazgo de frontend y proyectos</b>
 </p>
 
 ### Tecnologías con las que trabajo
